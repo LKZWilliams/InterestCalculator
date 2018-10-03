@@ -1,6 +1,6 @@
 ﻿using InterestCalculator.Models;
 
-namespace InterestCalculator
+namespace InterestCalculator.Service
 {
     public class Calculator
     {
