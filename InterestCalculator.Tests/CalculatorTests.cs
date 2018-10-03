@@ -1,5 +1,6 @@
 using InterestCalculator.Models;
 using InterestCalculator.Models.Cards;
+using InterestCalculator.Service;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace InterestCalculator.Tests
